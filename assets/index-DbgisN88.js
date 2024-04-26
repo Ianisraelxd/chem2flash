@@ -10978,7 +10978,7 @@ const Ph = "./assets/logo-1EnBdt9n.png",
       option2: "b) It decreases.",
       option3: "c) It remains unchanged.",
       option4: "d) It fluctuates randomly.",
-      ans: 1,
+      ans: 3,
     },
     {
       question:
@@ -10987,7 +10987,7 @@ const Ph = "./assets/logo-1EnBdt9n.png",
       option2: "B. − 168.2J/K",
       option3: "C. − 169.23J/K",
       option4: "D. − 163.2J/K",
-      ans: 3,
+      ans: 1,
     },
     {
       question:
@@ -10996,7 +10996,7 @@ const Ph = "./assets/logo-1EnBdt9n.png",
       option2: "B. −26.2J/K",
       option3: "C. −22.2J/K",
       option4: "D. −22.6J/K",
-      ans: 1,
+      ans: 3,
     },
     {
       question:
@@ -11005,7 +11005,7 @@ const Ph = "./assets/logo-1EnBdt9n.png",
       option2: "B. Negative",
       option3: "C. Maybe",
       option4: "D. Positive - Negative",
-      ans: 2,
+      ans: 1,
     },
     {
       question:
